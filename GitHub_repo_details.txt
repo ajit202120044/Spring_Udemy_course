@@ -1,0 +1,3 @@
+git remote add origin https://github.com/ajit202120044/Spring_Udemy_course.git
+git branch -M main
+git push -u origin main
